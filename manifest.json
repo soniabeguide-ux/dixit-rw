@@ -1,0 +1,11 @@
+{
+  "name": "Dixit RW",
+  "short_name": "Dixit RW",
+  "description": "Bibliothèque de citations du Dr Raoul Wafo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#C9A84C",
+  "orientation": "portrait-primary",
+  "lang": "fr"
+}
